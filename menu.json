@@ -1,17 +1,14 @@
 [
-  
-{
-    product_name: Nshima 2 lumps,
-    price: K40.00,
-    description: 2 lumps of nshima,
-    product_pic: https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/nshima.jpg
-},
-
-{
-    product_name: Rice Bowl,
-    price: K60.00,
-    description: bowl of rice,
-    product_pic: https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/rice.jpeg
-}
-  
+  {
+    "product_name": "Nshima 2 lumps",
+    "price": 40.00,
+    "description": "2 lumps of nshima",
+    "product_pic": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/nshima.jpg"
+  },
+  {
+    "product_name": "Rice Bowl",
+    "price": 60.00,
+    "description": "bowl of rice",
+    "product_pic": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/rice.jpeg"
+  }
 ]
