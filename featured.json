@@ -1,1 +1,20 @@
-
+[
+  {
+    "product_name": "Nshima with Beans",
+    "price": 80.00,
+    "description": "Nshima with Beans",
+    "product_pic": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lubzonline.com%2Fkabulangeti-beans%2F&psig=AOvVaw3qVq7mSzqp0SOO2j5XxzmK&ust=1753632218317000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJj6gJ3z2o4DFQAAAAAdAAAAABAE"
+  },
+  {
+    "product_name": "Nshima with fish",
+    "price": 100.00,
+    "description": "Nshima with fish",
+    "product_pic": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.blackfoodie.co%2Frecipe%2Fzambian-fish-curry-with-nshima%2F&psig=AOvVaw0PI080LjwLO_d6x6wjmwcc&ust=1753631490766000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCU2sPw2o4DFQAAAAAdAAAAABAL"
+  },
+  {
+    "product_name": "Rice with Beans",
+    "price": 80.00,
+    "description": "Rice with Beans",
+    "product_pic": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lubzonline.com%2Fkabulangeti-beans%2F&psig=AOvVaw0drqLzdnzCGkEr_nAKzKzc&ust=1753631995092000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDj_bPy2o4DFQAAAAAdAAAAABAE"
+  }
+]
